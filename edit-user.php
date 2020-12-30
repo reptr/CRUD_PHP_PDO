@@ -60,6 +60,7 @@
                 <label for="password">Password</label>
                 <input type="password" class="form-control" name="password" placeholder="Enter new password" value="<?= $user_password ?>">
             </div>
+            <a href="index.php" class="btn btn-warning">Back</a>
             <button type="submit" class="btn btn-primary" name="updateUser">Submit</button>
         </form>
     </div>
