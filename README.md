@@ -32,7 +32,7 @@ git clone https://github.com/reptr/CRUD_PHP_PDO.git  /direktori project(htdoc)
 ```
 
 ## Usage
-1. Pastikan sudah membuat database dengan nama **crud_pdo**
+1. Pastikan sudah membuat database dengan nama **crud_pdo**.
 2. import database.
 3. run crud-php-pdo di browser favorit anda.
 
