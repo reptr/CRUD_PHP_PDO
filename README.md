@@ -2,13 +2,16 @@
 
 ## Daftar Isi
 
-- [CRUD PHP PDO](#CRUDPHPPDO)
+- [CRUD PHP PDO](#crud-php-pdo)
   - [Daftar Isi](#daftar-isi)
   - [About](#about)
   - [Getting Started](#getting-started)
     - [Installing](#installing)
   - [Usage](#usage)
   - [Screenshoot](#screenshoot)
+    - [Halaman Utama](#halaman-utama)
+    - [User Update](#user-update)
+    - [Notif](#notif)
   - [License](#license)
 
 
@@ -50,4 +53,4 @@ git clone https://github.com/reptr/CRUD_PHP_PDO.git  /direktori project(htdoc)
 <img src="image/Notif2.png">
 
 ## License
-MIT License Copyright &copy; 2020 reptr
+MIT License Copyright &copy; 2020
